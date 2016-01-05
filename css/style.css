@@ -1,0 +1,25 @@
+* {
+  font-weight: bold;
+  font-family: fantasy;
+  /*font-size: 16px;*/
+  line-height: 100%;
+}
+
+h1 {
+  color: #cc0000;
+  text-align: center;
+}
+
+h3 {
+  color: #09a687;
+}
+
+h2 {
+  color: #8b3a62;
+}
+
+ol,
+ul {
+  font-style: italic;
+  font-size: 26px;
+}
